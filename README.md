@@ -13,7 +13,8 @@ git push -u origin main
 
 <hr/>
 
-### h3
+### Meu primeiro Objeto/Classe
+Esse projeto possui o meu primeiro objeto.
 
 <hr/>
 
